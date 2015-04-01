@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.com.zipservlet.utils.TestCustomUtils" tests="7" skipped="0" failures="0" errors="0" timestamp="2015-04-01T02:19:16" hostname="Cata-PC" time="0.016">
+  <properties/>
+  <testcase name="testSortMapByIntegerValue" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.0"/>
+  <testcase name="testFileLinesInvalidFile" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.001"/>
+  <testcase name="testUnzip" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.005"/>
+  <testcase name="testFileLines" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.001"/>
+  <testcase name="testDirectoryUnzip" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.008"/>
+  <testcase name="testGetFirstMapEntries" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.0"/>
+  <testcase name="testNullValidation" classname="test.com.zipservlet.utils.TestCustomUtils" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

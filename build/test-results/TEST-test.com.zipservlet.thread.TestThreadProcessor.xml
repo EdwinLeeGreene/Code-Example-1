@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.com.zipservlet.thread.TestThreadProcessor" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-04-01T02:19:16" hostname="Cata-PC" time="0.006">
+  <properties/>
+  <testcase name="testSubmitThreadProcessor" classname="test.com.zipservlet.thread.TestThreadProcessor" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
